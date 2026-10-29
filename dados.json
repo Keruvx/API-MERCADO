@@ -55,12 +55,6 @@
       "senha": "5166"
     },
     {
-      "id": "10",
-      "nome": "Ricardo",
-      "email": "ricardo10@gmail.com",
-      "senha": "7364"
-    },
-    {
       "id": "11",
       "nome": "Sofia",
       "email": "sofia11@gmail.com",
@@ -119,6 +113,18 @@
       "nome": "Laura",
       "email": "laura20@gmail.com",
       "senha": "5165"
+    },
+    {
+      "nome": "Lucas",
+      "email": "Matforc@gmail.com",
+      "senha": "mamaco3",
+      "id": "WWnDBnO9c10"
+    },
+    {
+      "nome": "Lucas Maricas",
+      "email": "Maricas@gmail.com",
+      "senha": "mamaco33",
+      "id": "feZ5mkkqLak"
     }
   ],
   "produtos": [
@@ -239,7 +245,7 @@
       "nome": "Impressora 15",
       "descricao": "Descrição do produto Impressora número 15",
       "categoria": "Ferramentas",
-      "preco": 4091.0,
+      "preco": 4091,
       "imagemUrl": "https://picsum.photos/200/300?random=15"
     },
     {
@@ -984,5 +990,6 @@
       "id": "15",
       "nome": "Jardinagem"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
